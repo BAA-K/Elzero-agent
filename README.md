@@ -1,2 +1,2 @@
 # Elzero-agent-front-end-template
-Front-end Template-5
+Elzero Agent is a front-end template-5. This is a simple responsive template built with HTML and CSS and fontawesome library.
